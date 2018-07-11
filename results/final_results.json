@@ -1,4 +1,9 @@
 {
+    "cnn": {
+        "prediction_reward_low_FN_rate": -2033.7705911034482,
+        "prediction_reward_low_FP_rate": -6212.730046767241,
+        "prediction_standard": -3078.6731280344825
+    },
     "contextOSE": {
         "reward_low_FN_rate": 73.18167250416667,
         "reward_low_FP_rate": 66.97713919047413,
