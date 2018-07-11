@@ -13,6 +13,20 @@
             "threshold": 0.9845962524414067
         }
     },
+    "cnn_prediction": {
+        "reward_low_FN_rate": {
+            "score": -7309.5216570444445,
+            "threshold": 0.9998044967651372
+        },
+        "reward_low_FP_rate": {
+            "score": -14529.533708533814,
+            "threshold": 0.9998044967651372
+        },
+        "standard": {
+            "score": -7258.5216570444445,
+            "threshold": 0.9998044967651372
+        }
+    },
     "contextOSE": {
         "reward_low_FN_rate": {
             "score": 22.67222031445549,
